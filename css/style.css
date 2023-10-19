@@ -174,7 +174,7 @@ header nav .l_nav, header nav .r_nav {
 
 .coll_elem {
   display: flex;
-  align-items: center;
+  align-items: end;
   justify-content: space-between;
 }
 
@@ -299,6 +299,10 @@ ul li {
 ul li a {
   text-align: left;
   color: #CBCFD4;
+}
+
+.bcg_3 {
+  margin-top: 100px;
 }
 
 /*# sourceMappingURL=style.css.map */
